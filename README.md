@@ -1,4 +1,4 @@
-# Hidiag
+# Hitype
 Artifacts accompanying the paper Hitype.
 
 # Data
