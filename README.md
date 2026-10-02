@@ -20,11 +20,11 @@ python main.py --entity node  --beta 0.7 --alpha 0.6 --k 3 --lamb 60 -d SN
 
 ### The overview of Hitype
 
-![](https://github.com/lhysgithub/Hidiag/blob/main/resource/ov.png "")
+![](https://github.com/lhysgithub/Hitype/blob/main/resource/ov.png "")
 
 ### Main Result
 
-![](https://github.com/lhysgithub/Hidiag/blob/main/resource/res.png "")
+![](https://github.com/lhysgithub/Hitype/blob/main/resource/res.png "")
 
 
 # Contact us
